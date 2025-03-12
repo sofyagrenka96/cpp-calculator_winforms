@@ -1,0 +1,3 @@
+C:\Users\Соня\source\repos\WinProba\WinProba\x64\Debug\WinProba.vcxproj.AssemblyReference.cache
+C:\Users\Соня\source\repos\WinProba\WinProba\x64\Debug\WinProba.MyForm.resources
+C:\Users\Соня\source\repos\WinProba\WinProba\x64\Debug\WinProba.vcxproj.GenerateResource.cache
