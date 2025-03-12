@@ -1,2 +1,41 @@
-﻿/.vs/WinProba/v17
-/.vs/WinProba/FileContentIndex
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# Visual Studio files
+*.user
+*.suo
+*.vshost.*
+*.resharper.*
+*.vcxproj.user  # Важно добавить эту строку
+
+# Code Indexing Files
+*.vsidx
+
+# Build output
+/Debug/
+/Release/
+x64/
+x86/
+
+# NuGet packages (если используете)
+packages/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Other files
+*.DS_Store  # macOS
+
+# .vs files - ignore all, except .gitignore itself
+.vs/*
+!.vs/.gitignore
